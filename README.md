@@ -28,5 +28,5 @@ Link to repository: https://github.com/svnday/Work_Day_Scheduler_Challenge
 
 Link to deployed project: https://svnday.github.io/Work_Day_Scheduler_Challenge/
 
-Link to screenshot of deployed project: ![](https://i.imgur.com/ekn2qHE.png)
+Screenshot of deployed project: ![](https://i.imgur.com/ekn2qHE.png)
 
