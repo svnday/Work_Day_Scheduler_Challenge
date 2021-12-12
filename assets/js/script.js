@@ -21,9 +21,6 @@ $(document).ready(function() {
 
     hourColor();
 
-    // localStorage.setItem("key", JSON.stringify(value));
-    // parseInt(localStorage.getItem("key"))
-
 
     $(".saveBtn").on("click", function(){
         var key = $(this).parent().attr("id")
